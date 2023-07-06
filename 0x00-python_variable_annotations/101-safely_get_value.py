@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""this is a type annotated module"""
+"""Given the parameters and the return values, add type
+   annotations to the function
+"""
 from typing import Union, Mapping, Any, TypeVar
 
 
