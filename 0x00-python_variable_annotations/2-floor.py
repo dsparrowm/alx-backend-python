@@ -4,4 +4,5 @@ import math
 
 
 def floor(n: float) -> int:
+    """annotated function"""
     return math.floor(n)
